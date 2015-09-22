@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//Calendar//NONSGML ZohoCalendar//EN
+VERSION:2.0
+X-WR-TIMEZONE:PST8PDT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Seattle Social Justice Hackathon
+DESCRIPTION:Join us! On November 6-7 2015 for the Seattle Social Justice Hackathon\nItinerary and Event Details available on our website: http://socialjusticehackathon.com\n\nAt least 80 percent of the legal needs of the poor and two-thirds of the legal needs of middle income Americans are not met. Seattle University's Social Justice Hackathon will unite the legal and tech communities to create innovative solutions to American access to justice.\n\nWe're looking for projects that seek to eliminate the gap between those who need civil legal services and those who provide legal resources. Participants include developers, designers, lawyers, law students, business developers, "idea people", or anything in-between!\n\nTeams can work on a project of their own interest or select from any number of problems suggested by our community partners. Ideas of all sorts are accepted, from Web and Mobile Apps to Wearables and Algorithms.\n\nRegister Now: http://socialjusticehackathon.com/#rsvp
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151108
+LOCATION:Seattle University School of Law\, 1215 East Columbia Street\, Seattle\, WA 98122
+CLASS:PUBLIC
+IMPORTANT:0
+STATUS:1
+COMMENT:
+UID:AVxVlvEMTbGehs9xkJJX9o6aWiEGD0zhucqU_sQ0PP4=
+TRANSP:TRANSPARENT
+PRIORITY:8
+CREATED:20150922T210123Z
+LAST-MODIFIED:20150922T210123Z
+DTSTAMP:20150922T210704Z
+ORGANIZER;CN=Social Justice Hackathon:MAILTO:info@socialjusticehackathon.com
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DURATION;RELATED=START:-P1D
+END:VALARM
+URL:http://socialjusticehackathon.com
+END:VEVENT
+END:VCALENDAR
